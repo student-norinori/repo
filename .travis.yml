@@ -1,6 +1,6 @@
 language: bash
 script:
-  - echo travis test
-  - echo この内容はbashで実行できる
+  - echo "travis test"
+  - echo "この内容はbashで実行できる"
 　- ./kadai3-test.sh
 
